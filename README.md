@@ -14,4 +14,4 @@ L'API offre les fonctionnalités suivantes :
 
 ## Licence
 
-
+Droit d'auteur (c) [2023]  Winner Pindi 
